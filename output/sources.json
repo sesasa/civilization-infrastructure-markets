@@ -1,0 +1,210 @@
+{
+  "irena": {
+    "title": "IRENA, Renewable Capacity Statistics 2026",
+    "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf"
+  },
+  "iea": {
+    "title": "IEA, World Energy Investment 2026, May 28",
+    "url": "https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security"
+  },
+  "cbre": {
+    "title": "CBRE, North America Data Center Trends H1 2026",
+    "url": "https://www.cbre.com/insights/books/north-america-data-center-trends-h1-2026"
+  },
+  "powl": {
+    "title": "Powell Q3 FY2026 earnings, quarter ended June 30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex991-powlq3xfy2026earning.htm"
+  },
+  "hps": {
+    "title": "Hammond Power Solutions Q2 2026 results",
+    "url": "https://emea.hammondpowersolutions.com/news/2026/july/Quarter-2-2026-Financial-Results"
+  },
+  "heat": {
+    "title": "Balbi and Lingam, Waste Heat and Habitability (2024), conditional model",
+    "url": "https://arxiv.org/abs/2409.06737"
+  },
+  "prices": {
+    "title": "Yahoo Finance: archived daily chart series; individual URLs in market_prices.csv",
+    "url": "https://finance.yahoo.com/quote/SPY/history/"
+  },
+  "values": {
+    "title": "StockAnalysis: current valuation screens; individual URLs in valuations.csv",
+    "url": "https://stockanalysis.com/stocks/powl/statistics/"
+  },
+  "gold": {
+    "title": "World Gold Council, Gold Demand Trends Q2 2026",
+    "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026"
+  },
+  "goldcb": {
+    "title": "World Gold Council, Q2 2026 central-bank demand and revisions",
+    "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026/central-banks"
+  },
+  "bis": {
+    "title": "BIS residential property price statistics; exact API series in property.csv",
+    "url": "https://data.bis.org/topics/RPP"
+  },
+  "dlr": {
+    "title": "Digital Realty Q2 2026 results",
+    "url": "https://www.digitalrealty.com/about/newsroom/press-releases/30551/digital-realty-reports-second-quarter-2026-results"
+  },
+  "emaar": {
+    "title": "Emaar H1 2026 results, DFM filing",
+    "url": "https://feeds.dfm.ae/documents/2026/Aug/7/52433569-0887-4100-ba14-58ee448166f1/Emaar%20Properties%20H1%202026%20Press%20Release%20%20%20English.P.pdf"
+  },
+  "storage": {
+    "title": "EIA, US battery storage capacity, August 7, 2026",
+    "url": "https://www.eia.gov/todayinenergy/detail.php/detail.php?id=67925"
+  },
+  "nvda": {
+    "title": "Nvidia Q2 FY2027 results, quarter ended July 26, 2026",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+  },
+  "nvda21": {
+    "title": "Nvidia FY2022 results, year ended January 2022",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2022"
+  },
+  "msft": {
+    "title": "Microsoft FY2026 Q4 earnings call",
+    "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+  },
+  "amzn": {
+    "title": "Amazon Q2 2026 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm"
+  },
+  "meta": {
+    "title": "Meta Q2 2026 results",
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/"
+  },
+  "arista": {
+    "title": "Arista Networks Q2 2026 results",
+    "url": "https://www.arista.com/company/news/press-release/24401-pr-20260804"
+  },
+  "tsmc": {
+    "title": "TSMC monthly revenue, 2026",
+    "url": "https://investor.tsmc.com/english/monthly-revenue/2026"
+  },
+  "hpshist": {
+    "title": "Hammond May 2026 investor presentation: 2021–2025 annual sales",
+    "url": "https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf"
+  },
+  "powl21": {
+    "title": "Powell FY2021 10-K",
+    "url": "https://www.sec.gov/ixviewer/ix.html?doc=%2FArchives%2Fedgar%2Fdata%2F80420%2F000008042021000045%2Fpowl-20210930.htm"
+  },
+  "aaon": {
+    "title": "AAON Q2 2026 results",
+    "url": "https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution"
+  },
+  "bel": {
+    "title": "Bel Fuse Q2 and H1 2026 results",
+    "url": "https://ir.belfuse.com/news-releases/news-release-details/bel-reports-second-quarter-and-first-half-2026-results"
+  },
+  "myr": {
+    "title": "MYR Group Q2 2026 results",
+    "url": "https://investor.myrgroup.com/node/16406/html"
+  },
+  "vertiv": {
+    "title": "Vertiv Q2 2026 results, SEC exhibit",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm"
+  },
+  "eaton": {
+    "title": "Eaton Q2 2026 results",
+    "url": "https://www.eaton.com/sg/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html"
+  },
+  "quanta": {
+    "title": "Quanta Services Q2 2026 results",
+    "url": "https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results"
+  },
+  "prysmian": {
+    "title": "Prysmian Q2/H1 2026 results, July 30",
+    "url": "https://www.prysmian.com/en/media/press-releases/prysmian-raises-guidance-after-its-best-quarter-yet"
+  },
+  "nkt": {
+    "title": "NKT H1 2026 interim report",
+    "url": "https://investors.nkt.com/company-announcements/2026/nkt-as-h1-2026-interim-report-solid-financial-and-operational-execution/"
+  },
+  "schneider": {
+    "title": "Schneider Electric financial results, H1 2026",
+    "url": "https://www.se.com/ww/en/about-us/investor-relations/financial-results/"
+  },
+  "orsted": {
+    "title": "Ørsted H1 2026 results",
+    "url": "https://orsted.com/en/company-announcement-list/2026/08/orsted-continues-its-strategic-progress-delivers-s-150879921"
+  },
+  "sgcc": {
+    "title": "State Grid H1 2026 investment, SASAC, July 29",
+    "url": "https://wap.sasac.gov.cn/n2588025/n2588124/c35693703/content.html"
+  },
+  "catl": {
+    "title": "CATL 2025 annual results, March 10, 2026",
+    "url": "https://www.catl.com/en/news/6773.html"
+  },
+  "china": {
+    "title": "China NBS: property development, January–August 2026",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202609/t20260916_1965342.html"
+  },
+  "eve": {
+    "title": "Fluence–EVE Power global supply agreement, September 24, 2026",
+    "url": "https://ir.fluenceenergy.com/news-releases/news-release-details/fluence-secures-long-term-battery-supply-through-multiyear"
+  },
+  "india": {
+    "title": "India MNRE physical progress, September 30, 2026",
+    "url": "https://mnre.gov.in/en/physical-progress/"
+  },
+  "hitachi": {
+    "title": "Hitachi Energy India Q1 FY2027, quarter ended June 2026",
+    "url": "https://www.hitachienergy.com/news-and-events/press-releases/2026/08/hitachi-energy-india-limited-announces-q1-fy27-results"
+  },
+  "lt": {
+    "title": "Larsen & Toubro July 28, 2026 earnings transcript",
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL%26T-Earnings-Jul28-2026.pdf"
+  },
+  "acwa": {
+    "title": "ACWA Power H1 2026 financial results",
+    "url": "https://www.acwapower.com/en/media-center/latest-news/acwa-announces-first-half-2026-financial-results/"
+  },
+  "aramco": {
+    "title": "Saudi Aramco Q2/H1 2026 results",
+    "url": "https://www.aramco.com/en/news-media/news/2026/aramco-announces-second-quarter-and-half-year-2026-results"
+  },
+  "qatar": {
+    "title": "QatarEnergy investor presentation, November 2025; pre-conflict plans",
+    "url": "https://www.qatarenergy.qa/en/MediaCenter/Publications/QatarEnergy_Investors_Presentation_November_2025.pdf"
+  },
+  "fluence": {
+    "title": "Fluence revised FY2026 guidance, September 16",
+    "url": "https://ir.fluenceenergy.com/news-releases/news-release-details/fluence-energy-announces-revised-guidance-fiscal-year-2026"
+  },
+  "google": {
+    "title": "Google: 1 GW of contracted demand response, March 19, 2026",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/"
+  },
+  "itron": {
+    "title": "Itron Q2 2026 results",
+    "url": "https://na.itron.com/in/w/itron-announces-second-quarter-2026-financial-results"
+  },
+  "pjm": {
+    "title": "PJM July 2026 capacity auction for delivery year 2028/29",
+    "url": "https://insidelines.pjm.com/pjm-capacity-auction-procures-138318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand/"
+  },
+  "crwd": {
+    "title": "CrowdStrike Q2 FY2027 results, August 26, 2026",
+    "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial"
+  },
+  "ifr": {
+    "title": "IFR World Robotics 2026 market presentation, September 24",
+    "url": "https://ifr.org/downloads/press_docs/Market_Presentation_WR_Press_Conference_2026.pdf"
+  },
+  "sipri": {
+    "title": "SIPRI, Trends in World Military Expenditure 2025, 2026 fact sheet",
+    "url": "https://www.sipri.org/publications/2026/sipri-fact-sheets/trends-world-military-expenditure-2025"
+  },
+  "ai": {
+    "title": "IEA, Key Questions on Energy and AI, executive summary, 2026",
+    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+  },
+  "gev": {
+    "title": "GE Vernova Q2 2026 results, SEC exhibit",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gevpressrelease2q26.htm"
+  }
+}

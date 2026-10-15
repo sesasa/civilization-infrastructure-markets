@@ -1,0 +1,172 @@
+[
+  {
+    "area": "CN",
+    "kind": "R",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 112.6308,
+    "end_index": 84.37,
+    "change_pct": -25.09153801624422,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.CN.R.628?format=csv"
+  },
+  {
+    "area": "US",
+    "kind": "N",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 184.6949,
+    "end_index": 236.2362,
+    "change_pct": 27.906184740347474,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.US.N.628?format=csv"
+  },
+  {
+    "area": "CN",
+    "kind": "N",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 145.402,
+    "end_index": 112.9201,
+    "change_pct": -22.33937634970632,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.CN.N.628?format=csv"
+  },
+  {
+    "area": "US",
+    "kind": "R",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 149.5414,
+    "end_index": 154.2147,
+    "change_pct": 3.1250877683370426,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.US.R.628?format=csv"
+  },
+  {
+    "area": "IN",
+    "kind": "R",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 167.2228,
+    "end_index": 161.9391,
+    "change_pct": -3.1596767904855105,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.IN.R.628?format=csv"
+  },
+  {
+    "area": "XM",
+    "kind": "R",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 113.4328,
+    "end_index": 112.7761,
+    "change_pct": -0.5789330775578194,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.XM.R.628?format=csv"
+  },
+  {
+    "area": "IN",
+    "kind": "N",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 298.5957,
+    "end_index": 366.8395,
+    "change_pct": 22.854917200750037,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.IN.N.628?format=csv"
+  },
+  {
+    "area": "XM",
+    "kind": "N",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 128.8462,
+    "end_index": 157.3388,
+    "change_pct": 22.11365178018443,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.XM.N.628?format=csv"
+  },
+  {
+    "area": "DK",
+    "kind": "R",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 127.7322,
+    "end_index": 136.7838,
+    "change_pct": 7.086388553551881,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.DK.R.628?format=csv"
+  },
+  {
+    "area": "DK",
+    "kind": "N",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 142.3272,
+    "end_index": 177.7403,
+    "change_pct": 24.881470302233154,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.DK.N.628?format=csv"
+  },
+  {
+    "area": "DE",
+    "kind": "N",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 171.5309,
+    "end_index": 179.9463,
+    "change_pct": 4.906054827439266,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.DE.N.628?format=csv"
+  },
+  {
+    "area": "DE",
+    "kind": "R",
+    "start_date": "2021-Q1",
+    "end_date": "2026-Q1",
+    "start_index": 148.8581,
+    "end_index": 128.4619,
+    "change_pct": -13.701773702606701,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.DE.R.628?format=csv"
+  },
+  {
+    "area": "GB",
+    "kind": "R",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 120.442,
+    "end_index": 108.5357,
+    "change_pct": -9.885505056375676,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.GB.R.628?format=csv"
+  },
+  {
+    "area": "GB",
+    "kind": "N",
+    "start_date": "2021-Q2",
+    "end_date": "2026-Q2",
+    "start_index": 149.1272,
+    "end_index": 172.7348,
+    "change_pct": 15.830512475256043,
+    "source": "https://stats.bis.org/api/v1/data/WS_SPP/Q.GB.N.628?format=csv"
+  },
+  {
+    "area": "AE",
+    "kind": "N",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.AE.N.628?format=csv"
+  },
+  {
+    "area": "AE",
+    "kind": "R",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.AE.R.628?format=csv"
+  },
+  {
+    "area": "SA",
+    "kind": "R",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.SA.R.628?format=csv"
+  },
+  {
+    "area": "SA",
+    "kind": "N",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.SA.N.628?format=csv"
+  },
+  {
+    "area": "QA",
+    "kind": "N",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.QA.N.628?format=csv"
+  },
+  {
+    "area": "QA",
+    "kind": "R",
+    "error": "404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.QA.R.628?format=csv"
+  }
+]

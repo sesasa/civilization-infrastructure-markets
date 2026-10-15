@@ -1,0 +1,155 @@
+# Round 1 memo: energy and coordination infrastructure, October 2021 to October 2026
+
+**Retrieval cutoff:** web searches run on 12 Oct 2026. The newest data point is a commodity snapshot from 9–12 Oct 2026.
+
+**How reliable the numbers are:** I opened only one primary document directly, Vertiv's Q2 2026 8-K. Every other figure came from search results that cite company releases or SEC filings, and the source label says which. Codex should spot-check the important ones against the filings. I did not read the research directory, and I made no edits or external actions.
+
+## 0. My position up front
+
+The thesis is directionally supported **at the margin** but overstated **in aggregate**.
+
+- **Orders are real and large.** For grid, generation and cooling equipment, contracts are running 3–7× actual deliveries.
+- **The aggregate energy signal is modest.** EIA's October 2026 STEO has US electricity demand up about 2.2% in 2026 (4,195 → 4,288 TWh) and about 1.6% in 2027. That is my arithmetic from [Reuters-sourced coverage](https://www.carriermanagement.com/news/2026/10/07/292552.htm).
+- **The clearest lesson of 2021–2026 runs against simple thesis-investing.** The physical energy transition largely happened while its equity holders lost money (wind, solar, hydrogen). A physical buildout and returns to shareholders are separate claims and must be tested separately.
+
+## 1. Data points, separated by type
+
+Columns: **O** = orders/contracts, **B** = backlog, **D** = deliveries/revenue/capacity, **E** = earnings/margins, **V** = valuation/price.
+
+### Grid and electrical equipment (small and mid caps)
+
+| Company (period) | Sourced facts | Type | Source |
+|---|---|---|---|
+| **Powell Industries** (FQ3, quarter ended 30 Jun 2026) | Bookings $934.2M (+158%); book-to-bill 3.0×; backlog $2.4B (+69% YoY). One data center order was over $400M. **Revenue only +9% ($312M).** Backlog mix: commercial/industrial 40%, oil & gas 24%, utility 24%. | O/B/D | [10-Q](https://www.sec.gov/Archives/edgar/data/0000080420/000008042026000107/powl-20260630.htm), [release](https://finviz.com/news/376234/powell-industries-announces-third-quarter-fiscal-2026-results) |
+| Powell valuation | Forward P/E 46.9× vs industry 24.3×. **Undated** Zacks syndication. | V | [chartmill](https://www.chartmill.com/news/external/10557/powell-rises-52-3-in-three-months-should-you-buy-the-stock-now-or-wait) |
+| **Hammond Power** (Q2 2026) | Sales C$324.8M (+44.7%); data centers now over 30% of revenue; backlog +96.9% YoY. **Backlog −6.9% QoQ because shipments exceeded new bookings.** Canada sales −23.7%. | O/B/D | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/30/3336509/0/en/Hammond-Power-Solutions-Reports-Q2-2026-Financial-Results.html) |
+| **Itron** (Q2 2026) | **Revenue down to $563M from $607M**; Networked Solutions −17%; backlog $4.4B vs $4.5B a year earlier. | D/B | [8-K](https://www.sec.gov/Archives/edgar/data/0000780571/000117184326004912/exh_991.htm) |
+| **MYR Group** (Q2 2026) | Revenue $1.08B record; backlog $3.16B record. **C&I revenue +$163.6M; T&D revenue only +$17.7M.** | D/B | [release](https://investor.myrgroup.com/node/16406/html) |
+| **Bel Fuse** (Q2 2026) | Sales $210.7M (+25.1%), driven by defense and data solutions. No AI-specific breakout. Raised $441.6M of equity. | D/E | [8-K](https://www.sec.gov/Archives/edgar/data/0000729580/000143774926024893/ex_964865.htm) |
+| **Quanta** (Q2 2026) | Backlog $53.4B; revenue $9.56B (vs $6.77B); 2026 revenue guidance $39.3–39.7B. | B/D | [8-K](https://www.sec.gov/Archives/edgar/data/0001050915/000119312526324855/d56853dex991.htm) |
+
+### Generation
+
+| Company / market | Sourced facts | Type | Source |
+|---|---|---|---|
+| **GE Vernova** (Q2 2026) | Signed 20 GW of gas equipment (18 GW reservations, 2 GW firm). **Shipped 3 GW.** Contracted gas total 116 GW (53 GW firm + 63 GW reservations). Output target 20 GW/yr from Q3 2026, 30 GW by 2030. Total backlog $176B; Electrification backlog $40.6B (+69%). | O/B/D | [8-K release](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000147/gevpressrelease2q26.htm) |
+| **Siemens Energy** (FQ3 2026) | Orders €17.9B; backlog €162B; book-to-bill 1.57. Grid Technologies backlog €51B, with transformers the largest driver. Siemens Gamesa made €75M profit, its first profitable quarter since FY22. | O/B/E | [trade summary](https://www.emr-online.com/siemens-energy-earnings-release-q3-fy-2026-siemens-energy-accelerates-profitable-growth-siemens-gamesa-delivers-a-positive-quarterly-result/) |
+| **Bloom Energy** (Q2 2026) | Revenue $1.065B (+166%); GAAP operating income $182M. The "25 GW visibility" figure is a framework pipeline, **not orders**. | D/E | [release](https://s29.q4cdn.com/452919417/files/doc_financials/2026/q2/Q226-Earnings-release.pdf) |
+| **Oklo / NuScale** | Oklo is pre-revenue. NuScale Q1 revenue was $565k. Market caps around $9.1B and $3.5B in July 2026; shares down about 45% and 37% YTD by September. | V | [Fool Sep 2026](https://www.fool.com/investing/2026/09/03/better-small-modular-reactor-stock-to-buy-after/), [walnut](https://walnutinvest.com/stocks/compare/oklo-vs-smr) |
+| **PJM capacity auction** (2027/28 delivery year, held Dec 2025) | Cleared at the $333.44/MW-day cap; would have been $529.80 uncapped. **6,623 MW short** of the reliability requirement. Data centers account for 5,100 of 5,250 MW of load growth. | Price | [Power Engineering](https://www.power-eng.com/business/pjm-capacity-auction-hits-price-cap-again-as-region-falls-short-of-reliability-target/) |
+
+### Cooling, construction, storage and data centers
+
+| Item | Sourced facts | Type | Source |
+|---|---|---|---|
+| **AAON** (Q2 2026) | Sales $627M (~2×); BASX data center sales $345M (+216%). **Gross margin fell to 24.3% from 26.6%. Backlog −7.4% QoQ.** Valuation around $6.2B market cap and 31× 2026 P/E (MarketScreener, 14 Sep). | D/B/E/V | [8-K](https://www.sec.gov/Archives/edgar/data/0000824142/000082414226000052/liveaaonpressreleaseexs.htm), [MarketScreener](https://uk.marketscreener.com/quote/stock/AAON-INC-8199/valuation/) |
+| **Modine** (FQ1 FY27) | Sales $874M (+28%); data center revenue +90%. **Component shortages pushed segment margin down to 14.8%.** | D/E | [release](https://s205.q4cdn.com/270741342/files/doc_financials/2027/q1/Modine-Reports-First-Quarter-Fiscal-2027-Results.pdf) |
+| **Vertiv** (Q2 2026) | Sales $3.27B (+24%, organic +18%); adjusted operating margin 22.6%. FY guidance $13.8–14.2B. The release blames "supply chain congestion". **The 8-K exhibit I opened does not report orders or backlog.** | D/E | [8-K](https://www.sec.gov/Archives/edgar/data/0001674101/000162828026050323/q22026exhibit991vrt07292026.htm) |
+| **Comfort Systems** (Q2 2026) | Backlog $14.06B (vs $8.12B); **technology was 58% of H1 revenue (40% a year earlier)**, a concentration risk. | B/D | [BusinessWire](https://www.businesswire.com/news/home/20260723227439/en) |
+| **Fluence** (FQ3 2026) | Orders $1.44B; backlog $6.4B. **FY revenue guidance cut to $2.9–3.1B** after about $400M slipped on factory delays. | O/B/D | [Mercom](https://mercomindia.com/fluence-energys-q3-revenue-weaker-than-expected-due-to-production-delays) |
+| **CBRE, North America H1 2026** | Vacancy 1.4%; 7,481 MW under construction, 80.4% preleased; H1 absorption 1,456 MW. | Capacity | [CBRE](https://www.cbre.com/press-releases/north-american-data-center-demand-continues-to-outpace-supply-despite-record-construction) |
+| **Commercial real estate** (Green Street, Jun 2026) | All-property values −14% from the 2022 peak; **office −34%**. I found no data center REIT valuation data. | Price | [Bisnow/CRE Daily](https://www.credaily.com/briefs/green-street-index-reveals-sector-based-cre-pricing-gains/) |
+
+### Failures and mixed cases
+
+- **Ørsted** shares are down about 80–90% from the 2021 peak. It ran a DKK 60B rights issue in 2025, and US stop-work orders hit its projects ([CTV/Reuters](https://www.ctvnews.ca/business/article/denmarks-orsted-seeks-us94-billion-as-us-wind-market-falters/), [DOI.dk](https://www.doi.dk/en/ccs/artikel/trods-store-kursfald-er-oersted-stadig-blandt-danskernes-favoritaktier)).
+- **Plug Power** is down more than 95% since 2021, still had a Q2 2026 net loss of about $188M, and is selling assets ([TIKR](https://www.tikr.com/blog/plug-power-lost-97-of-its-value-over-five-years-the-margin-turnaround-in-2026-is-why-analysts-are-starting-to-look-again)). The 95% figure comes from third-party sources.
+- **ICLN** (global clean energy ETF) has a 5-year return of about −10% to −13% ([Trackinsight](https://www.trackinsight.com/en/fund/ICLN/performance)), even after a 1-year gain of about +34%.
+- **Chinese solar makers:** LONGi lost CNY 3.68B in H1 2026, and Tongwei, JA and Trina also reported losses, citing oversupply ([pv magazine](https://www.pv-magazine.com/2026/08/31/chinese-pv-industry-brief-another-5-major-solar-manufacturers-announce-h1-losses/)).
+- **Counter-signal on wind:** Vestas Q2 orders rose 67% and its margin reached 9.4% ([GreentechLead](https://greentechlead.com/wind/vestas-revenue-jumps-26-to-e4-7-bn-as-wind-orders-surge-67-and-backlog-hits-e76-9-bn-54690)). SolarEdge revenue rose 20% and it returned to non-GAAP operating profit ([BusinessWire](https://www.businesswire.com/news/home/20260805008847/en/)). So the "failure" was in capital returns and was concentrated in offshore wind, hydrogen and US residential solar. It is not uniform.
+
+### AI layer and macro
+
+- **Nvidia** FQ2 FY27 revenue was $96.2B, data center $89.0B (+117%) ([summary](https://pulse2.com/nvidia-operating-income-jumps-124-to-63-7-billion-as-revenue-doubles-and-q3-outlook-hits-108-billion/)).
+- **Hyperscaler 2026 capex** is about $650–725B. Sources conflict on the Microsoft and Amazon figures, and some totals include Oracle ([Yahoo](https://finance.yahoo.com/sectors/technology/articles/hyperscalers-hit-700-billion-2026-111243744.html)).
+- **Credit stress:** Oracle's interest expense rose 55%. A Blue Owl/CoreWeave project priced notes at 9.25%, about 270bp over comparably rated debt ([theenergymag](https://theenergymag.com/news/2026-02-25/coreweave-billion-loan-ai), [Fool](https://www.fool.com/investing/2026/01/18/prediction-these-stocks-will-collapse-if-the-ai-bu)). These are mostly commentary sources.
+- **Market prices, 9–12 Oct 2026** ([ABC markets](https://abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878)):
+  - Gold about $4,200/oz.
+  - LME copper about $14,300/t.
+  - Brent about $103. The Iran war began 28 Feb 2026 and Iran controls Hormuz transits ([Al-Monitor](https://www.al-monitor.com/originals/2026/09/oil-prices-flare-iran-tightens-grip-hormuz)).
+- **US natural gas is cheap:** EIA's August STEO forecasts Henry Hub at $2.87 for Q3 2026 ([EIA](https://www.eia.gov/pressroom/releases/press591.php)).
+- **Rates and crypto:** the US 10-year yield hit 5.11–5.17% around 24–25 Sep, the highest since 2007, and Bitcoin was about $83k on 24 Sep ([Cointelegraph](https://cointelegraph.com/news/bitcoin-fall-84k-treasury-yield-hits-19-year-high)).
+
+### System bottlenecks
+
+- **Interconnection queue** ([LBNL Queued Up 2026](https://emp.lbl.gov/queued-2026-edition-characteristics-power-plants-seeking-transmission-interconnection-end-2025)):
+  - 2,061 GW is waiting to connect.
+  - Only 13% of the 2000–2020 request cohort ever reached operation.
+  - The median time from request to operation is now over 5 years.
+- **Transformers:** Wood Mackenzie estimates a 15% supply shortfall in 2026, with lead times around 128 weeks in its 2025 survey ([WoodMac](https://www.woodmac.com/es/press-releases/us-executive-order-banning-chinese-bulk-power-equipment-set-to-worsen-critical-transformer-shortage/)). POWER Magazine reports that some market participants call the shortage partly self-inflicted by procurement practices ([POWER](https://powermag.com/transformers-in-2026-shortage-scramble-or-self-inflicted-crisis/)).
+- **Texas:** on 3 Aug 2026 the governor ordered an audit of data center interconnections. ERCOT has about 474 GW of large-load requests in review. EIA then **cut its Texas 2027 load-growth forecast from 14% to 6%** ([Troutman](https://www.troutman.com/insights/texas-hits-pause-on-data-center-grid-connections-amid-growing-oversight-push.html)).
+- **Global data centers:** the IEA puts data center electricity use at about 485 TWh in 2025, heading to about 950 TWh by 2030, and says supply-chain bottlenecks are constraining the near-term outlook ([ADB-hosted IEA](https://asiacleanenergyforum.adb.org/wp-content/uploads/2026/06/Key-questions-on-energy-and-AI.pdf)).
+
+### What I could not source
+
+- October 2021 baseline prices. From background knowledge, **unverified**: gold about $1,760, Brent about $84, US 10-year about 1.5%, Bitcoin about $55–60k.
+- Current October 2026 share prices or market caps for Powell, Hammond, MYR, Itron and Bel.
+- Vertiv's Q2 2026 orders and backlog.
+- PJM's 2028/29 auction results.
+- Enphase's primary Q2 release.
+- S&P 500 forward P/E for September 2026.
+- Data center REIT valuations.
+
+Five-year total returns for the small caps are needed and are **not yet sourced**.
+
+## 2. What the evidence suggests (inference, not sourced fact)
+
+1. **We are early in deliveries and late in the ordering rush.**
+   - GE Vernova signed about 6.7× more gas capacity than it shipped in Q2.
+   - Its 116 GW contracted is about 5.8 years of output at 20 GW/yr.
+   - Powell's 3.0× book-to-bill set against +9% revenue says the same thing.
+   - This is classic early-cycle backlog accumulation. That is also what late-1990s telecom looked like.
+2. **First signs of a peak in orders at small caps.** In the same quarter, Hammond and AAON both had sequential backlog declines, and AAON and Modine had margin compression. This could just be lumpy project timing. It is my top item to monitor.
+3. **The boom is narrow, not across the whole grid.**
+   - Itron revenue is falling.
+   - MYR's T&D revenue is roughly flat while its C&I work booms.
+   - Canada sales at Hammond are down.
+   - The money is going to equipment inside or next to data centers, plus gas generation. It is not going to broad grid modernization.
+4. **The dollars are mostly information hardware, not energy hardware.** Nvidia's annualized data center revenue (about $356B) is on the order of half of hyperscaler capex. So most of the spending sits in assets with roughly 3–6 year lives. Most of the stranding risk is in chips and neocloud credit, not in transformers.
+5. **The binding constraint in 2026 is coordination (politics, permits, queues), not technology.** Evidence: the Texas audit, PJM's price cap and shortfall, US offshore wind stop-work orders, and Hormuz. That supports the "coordination" half of the thesis but contradicts any assumption that coordination capacity scales smoothly.
+6. **Macro is hostile to long-duration assets.** A 10-year yield above 5% and $100 oil hit capital-heavy renewables hardest, which helps explain the ICLN-type underperformance. Cheap US gas strengthens the economics of gas generation for data centers.
+
+## 3. Critique of the historical thesis
+
+- **Malthusian generalization.** Energy capture correlates with social complexity, but rich economies have decoupled: energy per unit of GDP keeps falling, and per-capita energy in several OECD countries has been flat or falling for decades (background knowledge; needs sourcing). The defensible version is "useful work and exergy delivered", not "energy captured". The US 2026 aggregate of +2.2% is consistent with marginal re-acceleration, not a new regime.
+- **Waste heat.** Globally, human waste heat is tiny compared with greenhouse forcing and does not bind this century. That is background-knowledge physics: about 20 TW of human primary energy against about 10⁵ TW of absorbed sunlight. Locally it binds now through rack density, water and cooling. So it is a business opportunity (AAON, Modine, Vertiv), not a ceiling on civilization.
+- **Capital stranding.** Railways, fiber in 1999–2002, and solar and wind in 2021–2026 all show infrastructure being built while capital is destroyed. Equity holders of commoditized, deflating hardware pass the surplus on to users. The thesis must predict *who* captures the rents.
+- **Coordination persistence.** Coordination can go backwards: war, tariffs, export controls, state moratoria, stop-work orders. The thesis treats it as a layer that accumulates. The 2026 evidence says it is contested and reversible.
+- **Speed of transitions.** Interconnection takes 5+ years and only 13% of requests historically reach operation. Turbine output grows from 20 to 30 GW/yr over four years. Transformer lead times run more than 2 years. These cap how fast anything physical can happen, whatever capex intentions are announced. Energy transitions have historically taken decades; the AI timeline assumes years.
+
+## 4. Proposed shared falsifiable framework
+
+Measure each infrastructure along seven stages, and never merge them:
+
+1. Announced intent or capex
+2. Firm orders vs reservations or frameworks
+3. Backlog
+4. Delivered or energized capacity (GW, MW absorbed)
+5. Utilization (TWh, load factor)
+6. Economic return (AI revenue, ROIC vs WACC)
+7. Asset prices and multiples
+
+Dated tests for the thesis:
+
+| # | Prediction if the thesis holds | Falsified if | Check by |
+|---|---|---|---|
+| 1 | US electricity sales grow ≥2%/yr | 2027 actual growth is below 1.5% | EIA, early 2028 |
+| 2 | Grid and cooling basket (POWL, HPS, AAON, MOD, GEV Electrification, Siemens Grid) keeps book-to-bill above 1.0 | Two consecutive quarters below 1.0 for most of the basket | Q2 2027 |
+| 3 | GE Vernova reservations convert to firm orders and are not cancelled | Contracted GW falls or conversions stall | Year-end 2026 (target ≥125 GW) |
+| 4 | Data center market stays tight | CBRE vacancy above 5%, or preleasing below 60% | H2 2027 |
+| 5 | Hyperscaler capex keeps rising | 2027 guidance below 2026 levels, or neocloud financing above 12% / defaults | Feb 2027 |
+| 6 | Owners of bottlenecks lose pricing power as capacity arrives | Margins keep expanding after supply additions, which would mean the bottleneck is structural | 2027–2028 |
+| 7 | Physical buildout and equity returns diverge in commoditized segments | Storage and solar names earn above their cost of capital despite overcapacity | Ongoing |
+| 8 | Coordination is the binding constraint | Median interconnection time falls below 3 years with no policy reform | LBNL 2028 edition |
+
+**Timing of needs (inference):**
+
+- **Now to 12 months:** large transformers and generator step-up units, switchgear, turbine slots, electricians, cooling components, interconnection approvals, and financing at a 5% 10-year rate.
+- **1 year:** GE Vernova turbine output at 20 GW/yr; behind-the-meter power (Bloom, reciprocating engines); Fluence's factory ramp; the Texas legislature in Jan 2027; PJM's incremental auction in Feb 2027.
+- **5 years:** transmission (Quanta's backlog), gas supply and pipelines, 30 GW/yr turbine output, and nuclear. SMRs are still pre-revenue, so nuclear is optionality, not supply.
+
+**Questions for Codex:**
+
+1. Can you source October 2021 and October 2026 prices to compute 5-year returns for POWL, HPS, AAON, ITRI, MYRG, BELFB, MOD, FLNC, ORSTED and PLUG?
+2. Can you find Vertiv's Q2 2026 orders and backlog?
+3. Do you read the Hammond and AAON sequential backlog declines as noise or an early peak?

@@ -1,0 +1,21 @@
+area,kind,start_date,end_date,start_index,end_index,change_pct,source,error
+CN,R,2021-Q2,2026-Q2,112.6308,84.37,-25.09153801624422,https://stats.bis.org/api/v1/data/WS_SPP/Q.CN.R.628?format=csv,
+US,N,2021-Q2,2026-Q2,184.6949,236.2362,27.906184740347474,https://stats.bis.org/api/v1/data/WS_SPP/Q.US.N.628?format=csv,
+CN,N,2021-Q2,2026-Q2,145.402,112.9201,-22.33937634970632,https://stats.bis.org/api/v1/data/WS_SPP/Q.CN.N.628?format=csv,
+US,R,2021-Q2,2026-Q2,149.5414,154.2147,3.1250877683370426,https://stats.bis.org/api/v1/data/WS_SPP/Q.US.R.628?format=csv,
+IN,R,2021-Q1,2026-Q1,167.2228,161.9391,-3.1596767904855105,https://stats.bis.org/api/v1/data/WS_SPP/Q.IN.R.628?format=csv,
+XM,R,2021-Q1,2026-Q1,113.4328,112.7761,-0.5789330775578194,https://stats.bis.org/api/v1/data/WS_SPP/Q.XM.R.628?format=csv,
+IN,N,2021-Q1,2026-Q1,298.5957,366.8395,22.854917200750037,https://stats.bis.org/api/v1/data/WS_SPP/Q.IN.N.628?format=csv,
+XM,N,2021-Q1,2026-Q1,128.8462,157.3388,22.11365178018443,https://stats.bis.org/api/v1/data/WS_SPP/Q.XM.N.628?format=csv,
+DK,R,2021-Q1,2026-Q1,127.7322,136.7838,7.086388553551881,https://stats.bis.org/api/v1/data/WS_SPP/Q.DK.R.628?format=csv,
+DK,N,2021-Q1,2026-Q1,142.3272,177.7403,24.881470302233154,https://stats.bis.org/api/v1/data/WS_SPP/Q.DK.N.628?format=csv,
+DE,N,2021-Q1,2026-Q1,171.5309,179.9463,4.906054827439266,https://stats.bis.org/api/v1/data/WS_SPP/Q.DE.N.628?format=csv,
+DE,R,2021-Q1,2026-Q1,148.8581,128.4619,-13.701773702606701,https://stats.bis.org/api/v1/data/WS_SPP/Q.DE.R.628?format=csv,
+GB,R,2021-Q2,2026-Q2,120.442,108.5357,-9.885505056375676,https://stats.bis.org/api/v1/data/WS_SPP/Q.GB.R.628?format=csv,
+GB,N,2021-Q2,2026-Q2,149.1272,172.7348,15.830512475256043,https://stats.bis.org/api/v1/data/WS_SPP/Q.GB.N.628?format=csv,
+AE,N,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.AE.N.628?format=csv
+AE,R,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.AE.R.628?format=csv
+SA,R,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.SA.R.628?format=csv
+SA,N,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.SA.N.628?format=csv
+QA,N,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.QA.N.628?format=csv
+QA,R,,,,,,,404 Client Error:  for url: https://stats.bis.org/api/v1/data/WS_SPP/Q.QA.R.628?format=csv

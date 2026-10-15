@@ -1,0 +1,150 @@
+# Round 1 memo: civilization compared with embryo development
+
+**Basis:** web searches on 12 Oct 2026; I read no repository files this round. Each claim is labeled **[BIO-H]** (human fact), **[BIO-M]** (animal-model fact), **[ANALOGY]**, **[MARKET]** (from our joint report) or **[FORECAST]**. Unless noted, embryo ages are days or weeks **after fertilization**. Gestational age as clinicians count it is about 2 weeks more.
+
+## My bottom line
+
+1. **"Civilization is now building a brain" is not defensible as a claim about phase.** In embryos, nervous-system formation starts *before* the heart beats. If civilization has an analogue of a nervous system, it began long ago, with writing, the telegraph and computing. What 2021–2026 most resembles is **a fast-growing, energy-dense tissue outgrowing its local supply and pulling in new vessels**: vascularization of a new tissue and its integration with other organs.
+2. **The embryo is a poor model for energy acquisition.** A human embryo does not capture energy; its mother supplies it. Civilization supplies itself (mining, photovoltaics). For energy, the embryo analogy is weaker than our market evidence. It is more useful for **information distribution, sequencing, and how supply networks remodel**.
+
+---
+
+## 1. The developmental sequence: biology only
+
+| Time after fertilization | Event | Source |
+|---|---|---|
+| Days 0–~4 | **Cleavage.** The zygote divides inside the zona pellucida **without growing**; the cells get smaller and total volume stays the same or falls slightly **[BIO-H]** | [WSU embryology text](https://learning.medicine.wsu.edu/gross-anatomy/textbook/2-embryology/week-1), [Virtual Human Embryo](https://virtualhumanembryo.lsuhsc.edu/demos/Stage2/Intro_pg/Intro.htm) |
+| Preimplantation | Energy comes from oxidative metabolism of pyruvate supplied by the reproductive tract. Mouse embryos switch preference to glucose at the blastocyst stage **[BIO-M]**. Human data on this are thinner (abstract-level) | [Martin & Leese, RFD](https://publish.csiro.au/RD/RD97071) |
+| ~Day 18–19 | The neural plate is present and the cardiogenic area is specified. Gastrulation (week 3) comes just before; that date is from standard textbooks and I did not check it this round **[BIO-H]** | [LifeMap review](https://discovery.lifemapsc.com/library/review-of-medical-embryology/chapter-114-development-of-the-heart-cardiac-tube-development) |
+| Weeks 2–3 | First wave of blood formation in the yolk sac **[BIO-H]** | [Ivanovs 2017, *Development*](https://cob.silverchair.com/dev/article-pdf/144/13/2323/1848213/dev134866.pdf); [editorial summary](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422902) |
+| ~Days 21–23 | **The heart begins to beat** (Carnegie stage 10) **[BIO-H]** | [U. Minnesota atlas](https://www.vhlab.umn.edu/atlas/congenital-defects-tutorial/normal-cardiac-development/development-timeline-of-human-heart-embryology.shtml), [MDPI review](https://www.mdpi.com/2308-3425/9/6/187) |
+| ~Day 26 (stage 12) | Neural tube closure finishes at the caudal end. The forebrain had already closed **[BIO-H]** | [Müller & O'Rahilly 1987, via UNSW](https://embryology.med.unsw.edu.au/embryology/index.php/Talk:Paper_-_The_development_of_the_human_brain_stage_12), [eLife 88584](https://elifesciences.org/reviewed-preprints/88584) |
+| Weeks 4–5 | Definitive blood stem cells emerge from the dorsal aorta, colonize the fetal liver, and reach bone marrow only late in gestation **[BIO-H]** | Ivanovs 2017 |
+| End of week 8 (stage 23) | **The embryonic period ends**, with over 90% of named adult structures already present. The fetal period, from week 9, is growth and functional maturation. The 8-week boundary is a historical convention **[BIO-H]** | [UNSW Embryology](https://embryology.med.unsw.edu.au/embryology/index.php/Week_8), [embryology.ch](https://embryology.ch/old/anglais/jfetalperiod/entwicklung01.html) |
+| First trimester | The conceptus is fed **histiotrophically**, by uterine-gland secretions, in **low oxygen**. Maternal arterial flow into the placenta becomes established toward the end of the trimester and oxygen rises. A *premature or disorganized* onset of that flow produces oxidative stress and may contribute to miscarriage **[BIO-H]** | [Burton, Jauniaux, Charnock-Jones, IJDB](https://ijdb.ehu.eus/article/082764gb); [Burton & Jauniaux, PMC2714636](https://pmc.ncbi.nlm.nih.gov/articles/PMC2714636) |
+| Fetal period | Most human neurogenesis ends around mid-gestation. Cortical neuron number peaks around 28 weeks gestational age (a secondary source). Synaptic pruning is largely **postnatal**, so I keep it out of this table **[BIO-H]** | [Silbereis 2016, *Neuron*](https://pureportal.spbu.ru/ru/publications/-----------(967a18bf-8076-477e-a937-e66ecffd1e2b).html) (citation only; not opened) |
+
+**Mechanisms I use later, with the organism each was shown in:**
+- **Oxygen diffusion limit.** Tissue more than about 100–200 µm from a vessel cannot be supplied by diffusion **[BIO, general]** ([Carmeliet & Jain 2000, *Nature* 407:249](https://scholarhub.vn/publication/Angiogenesis-in-cancer-and-other-diseases/eb801fad-faa0-4173-b602-365f65829fd6), cited via secondary sources).
+- **VEGF dose sensitivity.** Losing *one* copy of the VEGF gene kills mouse embryos through failed vessel formation **[BIO-M]** ([Ferrara 1996](https://www.ovid.com/journals/natr/fulltext/00006056-199604040-00022~heterozygous-embryonic-lethality-induced-by-targeted)).
+- **Flow-driven remodeling.** Hemodynamic force is needed to remodel the mouse yolk-sac capillary plexus into a hierarchical network **[BIO-M]** ([Lucitti 2007](https://authors.library.caltech.edu/12052/1/LUCdev07.pdf)).
+- **Brain-sparing.** Under hypoxia the fetus redistributes blood flow toward the brain, triggered by a carotid chemoreflex. This was shown mainly in fetal sheep **[BIO-M]** ([Giussani, Cambridge repository](https://www.repository.cam.ac.uk/handle/1810/252377?show=full)).
+- **Cell competition.** In the mouse epiblast, cells with *relatively* lower Myc are eliminated even though they are viable. This is optimization, not repair **[BIO-M]** ([Clavería 2013, *Nature*](https://ideas.repec.org/a/nat/nature/v500y2013i7460d10.1038_nature12389.html)).
+- **Adult brain energy share.** About 2% of body mass uses about 20% of the body's oxygen. This is an *adult* fact, used only for contrast **[BIO-H]** ([Raichle & Gusnard 2002](https://pmc.ncbi.nlm.nih.gov/articles/PMC124895)).
+
+---
+
+## 2. Mapping history onto development **[ANALOGY]**
+
+| Developmental feature | Proposed historical analogue | Fit |
+|---|---|---|
+| Cleavage: division without growth, living off an endowment | **No good match.** Agricultural societies *grew* in population and land use | Poor; I'd drop it |
+| Gastrulation: germ layers form, the first division of labor | Cities and states: farmers, craftspeople and administrators specialize | Moderate |
+| Neural plate before heartbeat | Writing, postal systems and the telegraph (1840s) came before electric grids (1880s) | Partial. Canals and railways, a "circulation," came before the telegraph |
+| Heart as the first essential organ, once diffusion stops being enough | Coal plus steam plus rail, once cities outgrew local biomass and water power | Good mechanistically. A forced function, not an aesthetic choice |
+| Blood formation moving site (yolk sac → liver → marrow) | Energy-supply sites migrating (wood → coal → oil/gas → renewables) | Suggestive. Transitional supply organs are normal |
+| Organogenesis, weeks 4–8 | ~1880–1970: grids, telephony, highways, computing, ARPANET | Moderate |
+| Fetal growth and maturation | ~1970–present: scaling, globalization, China's buildout | Moderate |
+
+**Where it doesn't match:**
+- Development happens once and follows a canalized sequence. Civilization repeatedly rebuilds, and regions sit at different stages simultaneously: India's 260 GW peak is still rising while German real house prices fell 13.7%.
+- Organs mature at different rates (heterochrony), but no organism has organs at different *gestational ages*.
+- Information comes last in history but first in biology. The genome exists at fertilization; writing arrived after farming.
+
+**Closest equivalent to 2021–Oct 2026:**
+- **There is no single gestational week.** The best match is a mechanism: an **angiogenic episode coupled to neural tissue in the early-to-mid fetal period** (roughly weeks 9–20).
+- The structures already exist. Growth dominates. A metabolically dense tissue (AI compute) has outgrown the supply its local distribution grid can provide, the analogue of the diffusion limit. It sends demand signals (capacity prices, large-load requests) that drive new vessels (transmission, on-site gas, batteries) with a lag.
+- A second match: the **switch from histiotrophic to haemotrophic supply**. Clusters are moving from shared, low-intensity grid supply to dedicated high-flow supply, with stress at the interface.
+
+---
+
+## 3. Brain, or vascularization?
+
+My position, against the popular framing:
+
+- **Sequence.** The nervous system is not late in development. A "brain" analogy has to place its start before or alongside circulation, not in 2021.
+- **Energy share.** Data centers used about 485 TWh in 2025, growing 17% against 3% for the world (IEA, our report). Global electricity is roughly 30,000 TWh, which is my background figure and unverified this round. That puts data centers at around 1.5–2%, far from the 20% share of the adult brain. If AI is a brain, it is energetically immature.
+- **Direction of control is the decisive test.** A brain regulates the body. In 2026, control mostly runs **from grid to compute**: Google contracts 1 GW of curtailable load, Texas audits data-center interconnections, PJM caps prices. Compute is being *regulated by* circulation and institutions, not the other way round.
+- **Better description:** vascularization of a new, energy-dense tissue that is **integrated with other organs to an unproven degree**. "Brain" becomes defensible only if compute measurably controls physical systems (dispatch, logistics, manufacturing) at scale. That is a test, not an assumption.
+- **The analogy's genuine warning.** A dense, fast-growing tissue that recruits vessels but does not return value to the organism is the profile of pathological growth, not of a brain. The market test of which it is (cloud gross profit and free cash flow against depreciation) is already in our report.
+
+---
+
+## 4. Predictions that follow from developmental mechanisms
+
+Each prediction lists the mechanism, the prediction, a test, the alternative explanation, and how much it adds beyond our report.
+
+- **P1. Flow-driven remodeling and pruning** **[BIO-M]**
+  - *Prediction:* most requested capacity is pruned. Networks consolidate onto high-utilization corridors, and sites that don't get "flow" are abandoned.
+  - *Test:* the energized share of ERCOT's ~474 GW of large-load requests by 2028; utilization of new transmission lines.
+  - *Alternative:* ordinary speculation for option value explains withdrawals.
+  - *Novelty:* low for withdrawals. Medium as a policy idea: allocate by measured flow and readiness, not by request volume.
+
+- **P2. Dose-sensitive signaling** **[BIO-M]**
+  - *Prediction:* a capped signal under-recruits supply, so PJM's shortfall persists while the $325 cap holds.
+  - *Test:* the next auction's shortfall compared with the 6,831 MW in this one.
+  - *Alternative:* standard price-cap economics.
+  - *Novelty:* low. I won't pretend otherwise.
+
+- **P3. Pattern while small, then grow** (organogenesis is done by week 8) **[BIO-H]**
+  - *Prediction:* standards set in 2025–27 lock in for the growth phase: 800 VDC rack power (NVIDIA ties it to Kyber racks in 2027; [NVIDIA](https://developer.nvidia.com/blog/nvidia-800-v-hvdc-architecture-will-power-the-next-Generation-of-ai-factories)), liquid cooling, large-load interconnection rules, and templates for flexibility contracts.
+  - *Test:* the share of new AI capacity on 800 VDC by 2029; other grid operators copying ERCOT/PJM large-load rules.
+  - *Alternative:* economics of network effects and path dependence predicts the same.
+  - *Novelty:* **medium–high.** Our report missed standards lock-in.
+
+- **P4. Transitional supply organs** (blood formation moving site) **[BIO-H]**
+  - *Prediction:* on-site ("behind-the-meter") gas and fuel cells are a *fetal-liver stage*. Their share of new data-center supply rises to about 2028, then falls as grid trunks arrive, and contracts include clauses for transfer to the grid.
+  - *Falsifier:* islanded supply becomes permanent.
+  - *Novelty:* **high.** Confidence: low.
+
+- **P5. Brain-sparing under hypoxia** **[BIO-M]**
+  - *Prediction:* where supply is constrained, compute gets supplied first and peripheral electrification (EV charging, heat pumps, small commercial connections) waits longer or pays more.
+  - *Test:* retail price growth and small-load connection waits, PJM/ERCOT against less constrained regions, 2026–28.
+  - *Counter-evidence already exists:* the Texas audit and Energinet's pause. The "periphery" can vote, which no fetal organ can.
+  - *Novelty:* medium.
+
+- **P6. Stress from premature high-flow switching** **[BIO-H]**
+  - *Prediction:* connecting giant loads without buffering (storage, flexibility, ride-through standards) produces reliability incidents, and those incidents force buffering requirements.
+  - *Test:* NERC large-load incident reports. I recall at least one 2024 data-center load-loss event, but I have **not verified it this round**.
+  - *Novelty:* medium.
+
+- **P7. Cell competition** **[BIO-M]**
+  - *Prediction:* compute providers that are viable but relatively disadvantaged (higher cost of capital, worse energy access) get eliminated.
+  - *Test:* consolidation or default among neoclouds by 2028.
+  - *Novelty:* low; it overlaps with our credit monitoring.
+  - **Ethics:** this applies to firms only, never to people or regions.
+
+---
+
+## 5. How the metaphor fails
+
+1. **No shared genome.** Many competing programs with no common instruction set. Duplicated buildouts in the US, China and the Gulf look nothing like one organism's organogenesis.
+2. **No canalization toward a species-typical form.** Development converges on a known target; civilization has no target form. Any "stage" label quietly assumes a destination.
+3. **No mother.** Civilization captures its own energy. Fossil fuels resemble a *yolk*, a finite endowment, which fits egg-laying species better than placental humans. The sun is an external flow nobody regulates.
+4. **Development happens once; civilization cycles.** Booms, busts, stranding and rebuilding have no clean embryonic counterpart.
+5. **Regulation and markets differ.** Embryonic signals are not priced. Embryology says nothing about returns, valuations or who captures rents, which were our report's main findings.
+6. **People are not cells.** Body-politic metaphors have historically justified sacrificing individuals for "the organism." Cell competition, apoptosis and brain-sparing must not become normative. They describe biology; they are not prescriptions.
+
+---
+
+## 6. Infrastructure suggestions for the next 1–5 years
+
+These are derived from the analogy but each has to stand on its own merits **[FORECAST/ANALOGY]**.
+
+**Within 1 year**
+- Put **buffers at interfaces** before high-flow connections: co-located storage, curtailment contracts, ride-through standards.
+- **Settle standards early**: 800 VDC, liquid cooling, large-load telemetry, flexibility-contract templates.
+- Add **readiness gates** to queues.
+
+**Within 5 years**
+- Stage substations and trunk lines by *measured* utilization, and plan explicitly for pruning.
+- Write grid-transfer clauses into on-site generation.
+- **Protect distribution capacity and cost allocation for peripheral electrification**, so the system avoids the growth restriction that brain-sparing causes.
+
+## 7. Compared with our market-based conclusion
+
+- **Where they agree:** installation and integration phase; independent transitions now coupled; complements (transformers, connections, cooling, institutions) as the binding constraints.
+- **What embryology adds:** standards lock-in, transitional supply organs, flow-based pruning, priority-allocation conflict, and interface stress.
+- **Where they conflict:** embryology implies an ordered program and a target form. Our market evidence shows duplication, competition, regional asynchrony and financial cycles. Where they conflict, **the market evidence should win**, and the analogy should be used only to generate hypotheses we can test.
+
+**For you to push on:** my angiogenic-episode framing compared with an "organ integration" framing; whether P4 (transitional on-site supply) is defensible; and whether any developmental prediction here beats plain economics on novelty.

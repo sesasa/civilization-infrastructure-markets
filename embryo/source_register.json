@@ -1,0 +1,130 @@
+{
+  "staging": {
+    "title": "Human Developmental Biology Resource: morphological staging and age conventions",
+    "url": "https://hdbratlas.org/protocols.html"
+  },
+  "cleavage": {
+    "title": "Virtual Human Embryo: Carnegie stage 2 specimen and cleavage description",
+    "url": "https://virtualhumanembryo.lsuhsc.edu/demos/Stage2/Intro_pg/Intro.htm"
+  },
+  "gastrulation": {
+    "title": "Tyser et al. (2021): single-cell transcriptomic characterization of a gastrulating human embryo",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615353/"
+  },
+  "atlas": {
+    "title": "de Bakker et al. (2016): interactive three-dimensional atlas of human development",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27884980/"
+  },
+  "placenta": {
+    "title": "Hempstock et al. (2004): endometrial glands as a source of nutrients, growth factors and cytokines during the first trimester",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC493283/"
+  },
+  "flow": {
+    "title": "Lucitti et al. (2007): vascular remodeling of the mouse yolk sac requires hemodynamic force",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4260474/"
+  },
+  "pattern": {
+    "title": "Warmflash et al. (2014): early embryonic spatial patterning in human embryonic stem-cell cultures",
+    "url": "https://www.nature.com/articles/nmeth.3016"
+  },
+  "nerves": {
+    "title": "Mukouyama et al. (2002): sensory nerves determine arterial differentiation and branching in embryonic mouse skin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12086669/"
+  },
+  "irena": {
+    "title": "IRENA, Renewable Capacity Statistics 2026",
+    "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf"
+  },
+  "iea": {
+    "title": "IEA, World Energy Investment 2026, May 28",
+    "url": "https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security"
+  },
+  "cbre": {
+    "title": "CBRE, North America Data Center Trends H1 2026",
+    "url": "https://www.cbre.com/insights/books/north-america-data-center-trends-h1-2026"
+  },
+  "storage": {
+    "title": "EIA, US battery storage capacity, August 7, 2026",
+    "url": "https://www.eia.gov/todayinenergy/detail.php/detail.php?id=67925"
+  },
+  "powl": {
+    "title": "Powell Q3 FY2026 earnings, quarter ended June 30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex991-powlq3xfy2026earning.htm"
+  },
+  "hps": {
+    "title": "Hammond Power Solutions Q2 2026 results",
+    "url": "https://emea.hammondpowersolutions.com/news/2026/july/Quarter-2-2026-Financial-Results"
+  },
+  "hpshist": {
+    "title": "Hammond May 2026 investor presentation: 2021\u20132025 annual sales",
+    "url": "https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf"
+  },
+  "sgcc": {
+    "title": "State Grid H1 2026 investment, SASAC, July 29",
+    "url": "https://wap.sasac.gov.cn/n2588025/n2588124/c35693703/content.html"
+  },
+  "lt": {
+    "title": "Larsen & Toubro July 28, 2026 earnings transcript",
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL%26T-Earnings-Jul28-2026.pdf"
+  },
+  "acwa": {
+    "title": "ACWA Power H1 2026 financial results",
+    "url": "https://www.acwapower.com/en/media-center/latest-news/acwa-announces-first-half-2026-financial-results/"
+  },
+  "nerc": {
+    "title": "NERC (8 January 2025): incident review of simultaneous voltage-sensitive load reductions",
+    "url": "https://www.nerc.com/globalassets/our-work/reports/event-reports/incident_review_large_load_loss.pdf"
+  },
+  "ocp": {
+    "title": "Open Compute Project: solid-state transformer specification, revision 0.3.0, effective 22 June 2026",
+    "url": "https://www.opencompute.org/documents/ocp-sst-design-specification-v0-3-final-pdf"
+  },
+  "google": {
+    "title": "Google: 1 GW of contracted demand response, March 19, 2026",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/"
+  },
+  "value_emr": {
+    "title": "EMR valuation snapshot, retrieved October 12, 2026; archived in accompanying data",
+    "url": "https://stockanalysis.com/stocks/emr/statistics/"
+  },
+  "value_rok": {
+    "title": "ROK valuation snapshot, retrieved October 12, 2026; archived in accompanying data",
+    "url": "https://stockanalysis.com/stocks/rok/statistics/"
+  },
+  "value_iot": {
+    "title": "IOT valuation snapshot, retrieved October 12, 2026; archived in accompanying data",
+    "url": "https://stockanalysis.com/stocks/iot/statistics/"
+  },
+  "value_xyl": {
+    "title": "XYL valuation snapshot, retrieved October 12, 2026; archived in accompanying data",
+    "url": "https://stockanalysis.com/stocks/xyl/statistics/"
+  },
+  "value_itri": {
+    "title": "ITRI valuation snapshot, retrieved October 12, 2026; archived in accompanying data",
+    "url": "https://stockanalysis.com/stocks/itri/statistics/"
+  },
+  "emr": {
+    "title": "Emerson Q3 FY2026 earnings, quarter ended June 30, 2026",
+    "url": "https://ir.emerson.com/news-events/press-releases/detail/642/emerson-reports-third-quarter-2026-results-raises-2026-outlook"
+  },
+  "rok": {
+    "title": "Rockwell Automation Q3 FY2026 earnings, quarter ended June 30, 2026",
+    "url": "https://www.rockwellautomation.com/en-se/company/news/press-releases/Rockwell-Automation-Reports-Third-Quarter-2026-Results.html"
+  },
+  "iot": {
+    "title": "Samsara Q2 FY2027 earnings, quarter ended August 1, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1642896/000162828026060438/samsaraepr-q22027.htm"
+  },
+  "xyl": {
+    "title": "Xylem Q2 2026 earnings, released July 28, 2026",
+    "url": "https://www.xylem.com/en-us/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/"
+  },
+  "itron": {
+    "title": "Itron Q2 2026 results",
+    "url": "https://na.itron.com/in/w/itron-announces-second-quarter-2026-financial-results"
+  },
+  "ai": {
+    "title": "IEA, Key Questions on Energy and AI, executive summary, 2026",
+    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+  }
+}

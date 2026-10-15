@@ -1,0 +1,39 @@
+company,period,metric,value,unit,yoy_pct,status,source
+Powell,FY2021,Revenue,470.559,USD million,,reported,https://www.sec.gov/ixviewer/ix.html?doc=%2FArchives%2Fedgar%2Fdata%2F80420%2F000008042021000045%2Fpowl-20210930.htm
+Powell,Q3 FY2026 ended 2026-06-30,Revenue,312,USD million,9,reported,https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex991-powlq3xfy2026earning.htm
+Powell,Q3 FY2026 ended 2026-06-30,Orders,934,USD million,158,reported,https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex991-powlq3xfy2026earning.htm
+Powell,2026-06-30,Backlog,2400,USD million,69,reported,https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex991-powlq3xfy2026earning.htm
+Hammond Power Solutions,2021,Revenue (rounded),380,CAD million,,reported,https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf
+Hammond Power Solutions,2022,Revenue (rounded),558,CAD million,,reported,https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf
+Hammond Power Solutions,2023,Revenue (rounded),710,CAD million,,reported,https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf
+Hammond Power Solutions,2024,Revenue (rounded),788,CAD million,,reported,https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf
+Hammond Power Solutions,2025,Revenue (rounded),898,CAD million,,reported,https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2026-YEAR-ITEMS/Q1-2026/Hammond-May-2026---Q1-IR-Presentation.pdf
+Hammond Power Solutions,Q2 2026,Revenue,325,CAD million,44.7,reported,https://emea.hammondpowersolutions.com/news/2026/july/Quarter-2-2026-Financial-Results
+Hammond Power Solutions,Q2 2026,Adjusted EBITDA,53,CAD million,,reported,https://emea.hammondpowersolutions.com/news/2026/july/Quarter-2-2026-Financial-Results
+AAON,Q2 2026,Revenue,627,USD million,101.2,reported,https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution
+AAON,Q2 2026,Operating income,68.9,USD million,192.1,reported,https://investors.aaon.com/investor-news/aaon-reports-record-second-quarter-2026-results-driven-by-strong-demand-accelerating-throughput-and-improved-operating-execution
+Bel Fuse,Q2 2026,Revenue,210.7,USD million,25.1,reported,https://ir.belfuse.com/news-releases/news-release-details/bel-reports-second-quarter-and-first-half-2026-results
+Bel Fuse,Q2 2026,GAAP net income,25.5,USD million,,reported,https://ir.belfuse.com/news-releases/news-release-details/bel-reports-second-quarter-and-first-half-2026-results
+Itron,Q2 2026,Revenue,563,USD million,-7,reported,https://na.itron.com/in/w/itron-announces-second-quarter-2026-financial-results
+Itron,Q2 2026,Annual recurring revenue,417,USD million,21,reported,https://na.itron.com/in/w/itron-announces-second-quarter-2026-financial-results
+Vertiv,Q2 2026,Revenue,3274,USD million,24,reported,https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm
+Quanta Services,Q2 2026,Revenue,9560,USD million,,reported,https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results
+Quanta Services,2026-06-30,RPO (distinct from total backlog),33600,USD million,,reported,https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results
+GE Vernova,2026-06-30,Firm gas equipment backlog,53,GW,,reported,https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gevpressrelease2q26.htm
+GE Vernova,2026-06-30,Gas equipment slot reservations,63,GW,,reservation,https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gevpressrelease2q26.htm
+GE Vernova,Q2 2026,Gas equipment shipped,3,GW,,reported,https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gevpressrelease2q26.htm
+Fluence,"FY2026, guidance revised 2026-09-16",Revenue,2400,USD million,,forecast,https://ir.fluenceenergy.com/news-releases/news-release-details/fluence-energy-announces-revised-guidance-fiscal-year-2026
+Fluence,"FY2026, guidance revised 2026-09-16",Adjusted EBITDA,-200,USD million,,forecast,https://ir.fluenceenergy.com/news-releases/news-release-details/fluence-energy-announces-revised-guidance-fiscal-year-2026
+Digital Realty,Q2 2026,Core FFO per share excluding promote,2.13,USD,,reported,https://www.digitalrealty.com/about/newsroom/press-releases/30551/digital-realty-reports-second-quarter-2026-results
+CATL,FY2025,Battery sales,661,GWh,39,reported,https://www.catl.com/en/news/6773.html
+CATL,FY2025,Revenue,423700,CNY million,17,reported,https://www.catl.com/en/news/6773.html
+CATL,FY2025,Net profit,72200,CNY million,42,reported,https://www.catl.com/en/news/6773.html
+State Grid,H1 2026,Fixed asset investment (more than),310000,CNY million,12.6,reported,https://wap.sasac.gov.cn/n2588025/n2588124/c35693703/content.html
+Hitachi Energy India,Q1 FY2027 ended 2026-06-30,Revenue,24937,INR million,68.6,reported,https://www.hitachienergy.com/news-and-events/press-releases/2026/08/hitachi-energy-india-limited-announces-q1-fy27-results
+Larsen & Toubro,2026-06-30,Order book,7790000,INR million,27,reported,https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL%26T-Earnings-Jul28-2026.pdf
+ACWA,H1 2026,Battery capacity commissioned,0.8,GWh,,reported,https://www.acwapower.com/en/media-center/latest-news/acwa-announces-first-half-2026-financial-results/
+ACWA,H1 2026,Water capacity commissioned,0.9,million cubic metres/day,,reported,https://www.acwapower.com/en/media-center/latest-news/acwa-announces-first-half-2026-financial-results/
+Aramco,Q2 2026,Adjusted net income,33400,USD million,,reported,https://www.aramco.com/en/news-media/news/2026/aramco-announces-second-quarter-and-half-year-2026-results
+CrowdStrike,Q2 FY2027 ended 2026-07-31,Revenue,1470,USD million,26,reported,https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial
+CrowdStrike,2026-07-31,Annual recurring revenue,5840,USD million,25,reported,https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial
+Google,2026-03-19,Contracted demand response,1,GW,,contracted; not continuously dispatched,https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/
